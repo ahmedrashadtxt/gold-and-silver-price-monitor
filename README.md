@@ -124,3 +124,9 @@ This project is open-source and available under the MIT License.
 Data provided by Yahoo Finance.
 
 Built as a home-lab project to track the Precious Metals market.
+
+### 🌍 Customization
+The dashboard is pre-configured for **Dubai (UAE)** timezones and news. 
+To change the weather location or news source:
+1. Edit the **Weather** panel and update the Latitude/Longitude in the URL.
+2. Edit the **News** panel and update the region code (e.g., `gl=US`) in the RSS URL.
